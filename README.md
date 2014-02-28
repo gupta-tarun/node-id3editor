@@ -4,7 +4,7 @@ A wrapper for reading and updating ID3 data of (e.g.) MP3 files using eyeD3.
 
 ## Notice
 
-Make sure you have `eyeD3` installed.
+Make sure you have `id3editor` installed.
 
 ## Running tests
 
@@ -15,7 +15,7 @@ Make sure you have `eyeD3` installed.
 
 (The MIT License)
 
-Copyright (c) 2013 Sascha Gehlich <sascha@gehlich.us>
+Copyright (c) 2014 Tarun Gupta <tarunzweb@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
