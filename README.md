@@ -1,4 +1,4 @@
-# node-eyed3
+# node-id3editor
 
 A wrapper for reading and updating ID3 data of (e.g.) MP3 files using eyeD3.
 
